@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calcula Salário Líquido</string>
+    <string name="texto_peso">Peso</string>
+    <string name="digite_peso">Digite seu peso: (Ex. 75)</string>
+    <string name="texto_altura">Altura</string>
+    <string name="digite_altura">Digite sua altura: (Ex. 1.70)</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="btnlimpar">Limpar</string>
+
+    <string name="muito_abaixo">O seu IMC é %.2f: Muito abaixo do peso</string>
+    <string name="abaixo">O seu IMC é %.2f: Abaixo do peso</string>
+    <string name="normal">O seu IMC é %.2f: Peso normal</string>
+    <string name="acima">O seu IMC é %.2f: Acima do peso</string>
+    <string name="obesidadeI">O seu IMC é %.2f: Obesidade I</string>
+    <string name="obesidadeII">O seu IMC é %.2f: Obesidade II (Severa)</string>
+    <string name="obesidadeIII">O seu IMC é %.2f: Obesidade III (Mórbida)</string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
